@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "de8ecbc7-39c8-4517-8660-5f67f0d7e0ca": {
+      "ProjectGuid": "de8ecbc7-39c8-4517-8660-5f67f0d7e0ca",
+      "DisplayName": "Entities",
+      "ColorIndex": 0
+    },
+    "153b21ee-a20e-4ca9-bcff-5b827a73578e": {
+      "ProjectGuid": "153b21ee-a20e-4ca9-bcff-5b827a73578e",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "81f433e5-67e7-4271-b386-f5335664ab44": {
+      "ProjectGuid": "81f433e5-67e7-4271-b386-f5335664ab44",
+      "DisplayName": "Business",
+      "ColorIndex": 2
+    },
+    "e6f70526-fc3c-4352-aa3d-d483a091f7c8": {
+      "ProjectGuid": "e6f70526-fc3c-4352-aa3d-d483a091f7c8",
+      "DisplayName": "BookStore",
+      "ColorIndex": 3
+    },
+    "5cf72868-07f7-43fd-a786-d529753d8fa8": {
+      "ProjectGuid": "5cf72868-07f7-43fd-a786-d529753d8fa8",
+      "DisplayName": "Core",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
